@@ -1,0 +1,34 @@
+html {
+  text-size-adjust: 100%;
+}
+
+body {
+  font: 16px / 1 sans-serif;
+  background-image: url('/images/map.jpg')
+}
+
+ul, ol {
+  width: 24em;
+  margin: auto;
+  text-align: left;
+}
+
+h1{
+  background-image: url('/images/TheGoonies.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-indent: -10000px:
+}
+
+h2, h3 {
+  text-transform: uppercase;
+  margin: 2em;
+  text-shadow: 0.1em 0.1em 0em #961010;
+}
+
+hr {
+  border: none;
+  border-bottom: 0.2em solid black;
+  box-shadow: 0.1em 0.1em 0 red;
+}
